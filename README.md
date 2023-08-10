@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am Mehedi Hasan a  Very Enthusiast⚡ ,creative 😇and hardworking Person👷 .<br>🔭 I'm currently working on ROS 🤖 , OpenCv 📝, and Pythone🐍.Currently I am learning Flutter and DevOps😄. <br>Also I am very fluent in python (intermediate) ,Web Development .Can  Ask me anything regarding this💭. <br>I am Looking For peers who are enthusiast in problem solving and building project 😉😉.<br><br>
+<br>Hi there, I’m Mehedi Hasan, a passionate and curious learner who loves to explore new technologies and challenges⚡⚡. <br>I have experience in working with  ROS🤖, OpenCV 🔭, and Python🐍, and I’m currently learning Flutter and DevOps. <br> I enjoy developing web applications, solving problems, and building projects with Python. I’m always open to learning new things and sharing my knowledge with others. If you have any questions or ideas related to these topics, feel free to ask me.💭. <br> I’m looking for peers who share my enthusiasm and creativity in making the world a better place. 😊😉.<br><br>
 
 
 ## 🌐 Socials:
@@ -12,11 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Peru00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Peru00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Peru00&icon=0&color=0)](https://visitcount.itsvg.in)
